@@ -20,7 +20,7 @@ const Contact = () => {
                     </svg>
                     </a>
                 </div>
-                <p className='ff-work text-center fs-lg text-bold text-black pb-60 pt-10'>Get in touch!</p>
+                <p className='ff-work fs-lg text-bold text-black pb-60 pt-10'>Get in touch!</p>
                 <div className='d-flex items-center gap-30 mb-30'>
                     <input type="text" placeholder='Full Name' className='border-outline-none pb-15 ff-work' />
                     <input type="text" placeholder='Email address' className='border-outline-none pb-15 ff-work' />
